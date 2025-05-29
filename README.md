@@ -9,7 +9,7 @@ Aspiring developer building fun, creative projects to grow and improve.  <br>
 - 🌐 HTML / CSS / JavaScript <br>  
 - 🍎 Swift (iOS Development) <br>  
 - 🐍 Python <br>  
-- ☕ Java & Spring Boot <br>  
+- ☕ Java & Spring Boot (soon) <br>  
 </details>
 
 <details>
