@@ -6,7 +6,7 @@ Aspiring developer building fun, creative projects to grow and improve.  <br>
 <details>  
  <summary> 📦 Tech Stack </summary>  
 - ⚙️ C++ <br>  
-- 🌐 HTML / CSS / JavaScript <br>  
+- 🌐 HTML / CSS / JavaScript / React / Nodejs <br>  
 - 🍎 Swift (iOS Development) <br>  
 - 🐍 Python <br>   
 </details>
