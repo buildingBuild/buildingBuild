@@ -7,7 +7,6 @@ Aspiring developer building fun, creative projects to grow and improve.  <br>
  <summary> 📦 Tech Stack </summary>  
 - ⚙️ C++ <br>  
 - 🌐 HTML / CSS / JavaScript / React / Nodejs <br>  
-- 🍎 Swift (iOS Development) <br>  
 - 🐍 Python <br>   
 </details>
 
@@ -15,7 +14,7 @@ Aspiring developer building fun, creative projects to grow and improve.  <br>
  <summary>💡 What I'm Exploring </summary>
 - 🌐 Building fullstack applications <br>
 - 🛠️ Data engineering <br>
--  🌱Java & springboot <br>
+-  🌱Java - springboot <br>
 </details>
 
 
