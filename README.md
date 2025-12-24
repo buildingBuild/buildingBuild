@@ -1,21 +1,8 @@
 ### 👋 Hi, I’m @buildingBuild </h3>
 
 CS student passionate about software & data systems. <br>
-Aspiring developer building fun, creative projects to grow and improve.  <br>
+a developer building fun, creative projects to grow and improve.  <br>
 
-<details>  
- <summary> 📦 Tech Stack </summary>  
-- ⚙️ C++ <br>  
-- 🌐 JavaScript / React / Nodejs <br>  
-- 🐍 Python <br>   
-</details>
-
-<details>
- <summary>💡 What I'm Exploring </summary>
-- 🌐 Building fullstack applications <br>
-- 🛠️ Data engineering <br>
--  🌱Java - springboot <br>
-</details>
 
 
 
