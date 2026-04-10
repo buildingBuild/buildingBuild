@@ -1,8 +1,9 @@
 ### 👋 Hi, I’m Eneojo </h3>
 
-CS student exploring software and data systems building fun projects and open to collaborating on cool things. <br>
-I’m currently working on Media platform and learning about distributed systems Go, concurrency, networking
+CS student exploring software and data systems. Building fun projects and open to collaborating on cool things.
 
+🎬  Currently working on a media platform  
+🌐 Learning distributed systems (Go, concurrency, networking)
 
 
 <!---
