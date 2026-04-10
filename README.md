@@ -1,9 +1,12 @@
 ### 👋 Hi, I’m @buildingBuild </h3>
 
-CS student passionate about software & data systems. <br>
-a developer building fun, creative projects to grow and improve.  <br>
+CS student exploring software and data systems building fun projects and open to collaborating on cool things. <br>
+I’m currently working on Media platform and learning about distributed systems Go, concurrency, networking
 
-
+outside of tech
+- swim
+- kbbq
+- chess ( dont ask about my elo lol)
 
 
 <!---
